@@ -112,17 +112,10 @@ const Footer = () => {
             className='flex items-cent
           '
           >
-            &#169; Quiet Node {currentYear}
+            &#169; Zealotry1developer {currentYear}
           </motion.div>
 
-          {/* Vietnamese */}
-          <motion.div
-            variants={verticalVariants}
-            className='flex items-cent
-          '
-          >
-            🇻🇳 Vietnamese 🇻🇳
-          </motion.div>
+          
         </motion.div>
       </div>
     </div>

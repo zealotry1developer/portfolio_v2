@@ -52,7 +52,7 @@ const Intro = () => {
               >
                 👋
               </motion.span>{' '}
-              It's Logan <span className='hidden xxsm:inline'>;)</span>
+              It's Zealotry1developer <span className='hidden xxsm:inline'>;)</span>
             </motion.h1>
             <motion.h2
               initial={{ opacity: 0, x: -90 }}
@@ -164,7 +164,7 @@ const Intro = () => {
             >
               <img
                 className='absolute inset-0 w-full h-full object-center object-cover rounded-full select-none'
-                src={'assets/avatars/profile_pic.png'}
+                src={'assets/avatars/dragon.png'}
                 alt='quiet-node'
               />
             </motion.div>

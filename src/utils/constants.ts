@@ -1,14 +1,12 @@
 export const QUIET_NODE_PORTFOLIO_V2_GITHUB_LINK =
-  'https://github.com/quiet-node/portfolio-v2';
+  'https://github.com/zealotry1developer/portfolio-v2';
 
-export const QUIET_NODE_GITHUB_LINK = 'https://github.com/quiet-node';
-export const QUIET_NODE_REDDIT_LINK =
-  'https://www.reddit.com/user/Quiet-Computer-3495';
-export const QUIET_NODE_EMAIL_LINK = 'mailto:logan@quiet-node.dev';
-export const QUIET_NODE_LINKEDIN_LINK = 'https://linkedin.com/in/logann131';
-export const QUIET_NODE_TWITTER_LINK = 'https://twitter.com/quiet_node';
-export const QUIET_NODE_DISCORD_LINK =
-  'https://discordapp.com/users/401650245202739201';
+export const QUIET_NODE_GITHUB_LINK = 'https://github.com/zealotry1developer';
+export const QUIET_NODE_REDDIT_LINK =  '/';
+export const QUIET_NODE_EMAIL_LINK = '/';
+export const QUIET_NODE_LINKEDIN_LINK = '/';
+export const QUIET_NODE_TWITTER_LINK = '/';
+export const QUIET_NODE_DISCORD_LINK = '/';
 
 export const GO_LINK = 'https://go.dev/';
 export const TS_LINK = 'https://typescriptlang.org/';
