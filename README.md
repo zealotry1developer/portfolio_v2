@@ -1,10 +1,9 @@
 <p align="center">
 <br />
-<a href="https://quiet-node.dev"><img src="https://github.com/quiet-node/portfolio-v2/blob/main/public/quiet-node.ico?raw=true" width="150" alt=""/></a>
+
 <h1 align="center">Zealotry1developer | Portfolio </h1>
 </p>
 
-<h3 align="center"> 🏵️ Live at: https://quiet-node.dev </h3>
 
 <div align="center">
 
