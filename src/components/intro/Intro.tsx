@@ -62,7 +62,7 @@ const Intro = () => {
               className='text-primary font-medium
                     text-lg sm:text-xl'
             >
-              (a.k.a. quiet-node)
+              (Senior developer)
             </motion.h2>
           </div>
 
