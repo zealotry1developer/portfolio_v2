@@ -1,7 +1,7 @@
 <p align="center">
 <br />
 <a href="https://quiet-node.dev"><img src="https://github.com/quiet-node/portfolio-v2/blob/main/public/quiet-node.ico?raw=true" width="150" alt=""/></a>
-<h1 align="center">Quiet Node | Portfolio </h1>
+<h1 align="center">Zealotry1developer | Portfolio </h1>
 </p>
 
 <h3 align="center"> 🏵️ Live at: https://quiet-node.dev </h3>
@@ -18,14 +18,10 @@
 
 </div>
 
-Howdy, 👋 it's Logan ;) Welcome to my Portfolio!
+Howdy, 👋 it's Zealotry1developer ;) Welcome to my Portfolio!
 
 I'm a full-stack web 3.0 software developer and a blockchain & smart contract enthusiast.
 
 In this repository, you'll find some of my latest projects and contributions to the open-source community. From web applications to blockchain-based solutions, I'm always excited to explore new technologies and push the limits of what's possible. So feel free to have a look around, check out my code, and let me know if you have any questions or suggestions. Give it a star ⭐️, too!
 
 Cheers!
-
-## Here is a quick demo:
-
-https://user-images.githubusercontent.com/66233296/226212618-bb2b6f8c-ace6-4649-957d-df7f66e1907f.mp4
